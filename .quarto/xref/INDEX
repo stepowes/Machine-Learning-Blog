@@ -1,0 +1,23 @@
+{
+  "about.qmd": {
+    "about.html": "87279507"
+  },
+  "posts/probability/index.qmd": {
+    "index.html": "70bdad99"
+  },
+  "index.qmd": {
+    "index.html": "800d1c16"
+  },
+  "posts/clustering/index.qmd": {
+    "index.html": "38ad5c83"
+  },
+  "posts/regression/index.qmd": {
+    "index.html": "e597e0b2"
+  },
+  "posts/classification/index.qmd": {
+    "index.html": "98c3b457"
+  },
+  "posts/outliers/index.qmd": {
+    "index.html": "80dd7210"
+  }
+}

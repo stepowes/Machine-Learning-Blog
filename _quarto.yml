@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: ""
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - about.qmd
+      - icon: github
+        href: https://github.com/stepowes/Machine-learning-blog
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
